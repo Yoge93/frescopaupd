@@ -1,7 +1,7 @@
 {
   "mappings": [
     "/content/frescopa/language-masters/en:/",
-    "/content/public-bodea/language-masters/en:/",
+    "/content/frescopa/language-masters/en:/",
     "/content/public-bodea/language-masters/en/:/en/",
     "/content/public-bodea/language-masters/fr/:/fr/",
     "/content/public-bodea/language-masters/fr:/fr",
@@ -17,6 +17,7 @@
     "/content/public-bodea/placeholders:/placeholders.json"
   ],
   "includes": [
+    "/content/frescopa/",
     "/content/public-bodea/",
     "/content/dam/public-bodea/"
   ]
